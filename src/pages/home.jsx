@@ -1,6 +1,6 @@
 // src/pages/home.jsx
 import React from "react";
-import Hero from "../components/Hero"; // Assuming your hero component is in this path
+import Hero from "../components/hero"; // Assuming your hero component is in this path
 import MissionSection from "../components/MissionSection";
 import CounterSection from "../components/countersection";
 import ServicesSection from "../components/ServicesSection";
