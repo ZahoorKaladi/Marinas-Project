@@ -1,9 +1,9 @@
 // src/pages/home.jsx
 import React from "react";
 import Hero from "../components/hero"; // Assuming your hero component is in this path
-import MissionSection from "../components/MissionSection";
+import MissionSection from "../components/missionsection";
 import CounterSection from "../components/countersection";
-import ServicesSection from "../components/ServicesSection";
+import ServicesSection from "../components/servicessection";
 import DonationSection from "../components/donationsection";
 //import TestimonialsSection from "../components/TestimonialsSection";
 import GallerySection from "../components/gallerysection";
